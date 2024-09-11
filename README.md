@@ -1,2 +1,2 @@
 # polinomial
-CS 506 in lec 01
+CS 506 lec 01
